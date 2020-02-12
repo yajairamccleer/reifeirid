@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaemeesoh.joao.pt/sitemap.xml
